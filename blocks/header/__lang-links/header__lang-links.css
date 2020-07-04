@@ -1,6 +1,7 @@
 
 .header__lang-links {
+    display: flex;
     position: absolute;
-    left: 1058px;
-    top: 46px;   
+    right: 0;
+    bottom: 0;   
 }

@@ -1,6 +1,8 @@
 @import url('../header/header.css');
+@import url('../lead/lead.css');
 
 .page {
     background: #2A2C2F;
     min-width: 1280px;
+    margin: 0 auto;
 }
