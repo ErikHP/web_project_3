@@ -1,5 +1,10 @@
+
 @import url('../header/header.css');
 @import url('../lead/lead.css');
+@import url('../bold/bold.css');
+@import url('../list-reset/list-reset.css');
+@import url('../intro/intro.css');
+@import url('');
 
 .page {
     background: #2A2C2F;
