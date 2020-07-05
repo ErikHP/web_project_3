@@ -1,5 +1,5 @@
 .intro__title {
-    width: 690px;
+    max-width: 690px;
     height: 116px;
     font-family: Inter;
     font-style: normal;
@@ -8,5 +8,6 @@
     line-height: 58px;
     color: #FFFFFF;
     margin-top: 92px;
+    text-align: start;
     }
     
