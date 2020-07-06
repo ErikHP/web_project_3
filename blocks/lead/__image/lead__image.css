@@ -5,3 +5,20 @@
     margin: 0 auto;
     text-align: center;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead__image {
+      margin-top: 56px;
+    }
+  
+  }
+  
+  @media screen and (max-width: 320px) {
+    .lead__image {
+      margin-top: 40px;
+  
+    }
+  
+  }
+  
+  

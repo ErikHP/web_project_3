@@ -11,3 +11,20 @@
     height: 1005px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+      margin-left: 48px;
+      margin-right: 48px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .lead {
+      width: 100%;
+      margin: 50px 0;
+    }
+  }
+  
+  
