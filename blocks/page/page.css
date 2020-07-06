@@ -21,3 +21,9 @@
     text-rendering: optimizeLegibility;
     color: #FFFFFF;
 }
+
+
+.page__container {
+    max-width: 1280px;
+    margin: 0 auto;
+    overflow: hidden;

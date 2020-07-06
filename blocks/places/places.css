@@ -8,7 +8,25 @@
 @import url('./__paragraph/places__paragraph.css');
 
 .places {
+    position: relative;
     max-width: 984px;
     margin: 100px auto 0;
 
 }
+
+@media screen and (max-width: 1024px) {
+    .places {
+      margin-right: 48px;
+      margin-left: 48px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .places {
+      margin: 88px 24px 0 24px;
+    }
+  }
+  
+  
+  
+  
