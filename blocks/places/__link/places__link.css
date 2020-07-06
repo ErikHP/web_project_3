@@ -1,0 +1,11 @@
+.places__link {
+    margin: 12px 0;
+    padding: 0;
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    opacity: 1;
+    transition: opacity .4s ease-out;
+}

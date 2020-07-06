@@ -1,0 +1,5 @@
+.places__info {
+    margin: 0;
+    max-width: 100%;
+    grid-area: 2 / 2 / 3 / 3;
+}
