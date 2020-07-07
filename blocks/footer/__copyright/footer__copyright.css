@@ -7,7 +7,7 @@
   
   @media screen and (max-width: 320px) and (max-width: 767px) {
     .footer__copyright {
-        background-color: blue;
+        
         display: inline-block;
         font-size: 14px;
         line-height: 14px;
