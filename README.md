@@ -15,5 +15,5 @@ Also it includes links for more info.
 The last section is about Historic Route 66.
 
 
-link to Project 3: https://github.com/ErikHP/web_project_3/index.html
+link to Project 3: https://erikhp.github.io/web_project_3/
 
