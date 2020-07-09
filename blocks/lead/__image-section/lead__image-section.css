@@ -24,7 +24,7 @@
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .llead__image-section {
+  .lead__image-section {
         padding: 40px 0 0;
   }
 }
