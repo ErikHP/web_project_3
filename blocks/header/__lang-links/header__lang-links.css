@@ -1,7 +1,7 @@
 
 .header__lang-links {
     display: flex;
-    position: absolute;
+    align-items: flex-end;
     right: 0;
     bottom: 0;   
 }
